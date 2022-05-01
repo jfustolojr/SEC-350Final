@@ -6,4 +6,4 @@
 | Mike  | Http-Mail, Http Access, Mail feed  |
 | Everyone  | Documentation, Demostration  |
 
-![Network Diagra](sadasd)
+![Network Diagra](https://github.com/jfustolojr/SEC-350Final/blob/main/SEC350-FinalDiagram.png)
