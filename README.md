@@ -1,5 +1,5 @@
 # SEC-350 Final
-### [Technicial Demo](https://drive.google.com/file/d/1VraDYbfIpsu3LtLtYq4g5pwVPN1s5Qu8/view?usp=sharing) [Documentation](https://drive.google.com/file/d/1LwcUYvr87KpJs9HGT-iaoXCofVcj9q5y/view?usp=sharing)
+### [Technicial Demo](https://drive.google.com/file/d/1VraDYbfIpsu3LtLtYq4g5pwVPN1s5Qu8/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1LwcUYvr87KpJs9HGT-iaoXCofVcj9q5y/view?usp=sharing)
 
 | Name | Assigned Tasks |
 | ------------- | ------------- |
